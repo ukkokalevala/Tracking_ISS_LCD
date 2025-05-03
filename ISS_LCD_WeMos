@@ -16,7 +16,7 @@ TinyGPSPlus gps;
 SoftwareSerial gpsSerial(D3, D4);  // RX (D3), TX (D4)
 
 // N2YO API
-String apiKey = "NH74CL-F9XL2D-EU42SJ-5CZB";
+String apiKey = "your_API_KEY";
 String satID = "25544";  // ISS ID
 
 // Satellite data
